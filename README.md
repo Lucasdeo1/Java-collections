@@ -1,9 +1,13 @@
-# Java-collections
+# Java-collections 
 
-Alguns exercícios onde foram trabalhados as interfaces `Set`, `List` e `Map` no BootCamp DIO Santander 2024 - Backend com Java 2024;
+Alguns exercícios onde foram trabalhados as interfaces `Set`, `List` e `Map`.
+
 *Operações Básicas com `Set`, `List` e `Map`;
+
 *Pesquisa em `Set`, `List` e `Map`;
+
 *Ordenação nas `Set`, `List` e `Map`;
+
 
 # Referêcias:
 
